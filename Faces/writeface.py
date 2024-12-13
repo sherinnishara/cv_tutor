@@ -1,6 +1,6 @@
 import os, cv2
 
-haar_file = 'haarcascade_frontalface_default.xml'
+haar_file = r'Faces\haarcascade_frontalface_default.xml'
 datasets = 'datasets'
 sub_data = 'elon'
 
